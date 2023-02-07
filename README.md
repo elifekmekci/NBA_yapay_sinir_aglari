@@ -1,7 +1,7 @@
 # NBA 🏀
 Bu çalışmada yapay sinir ağları kullanılarak NBA veri setindeki oyuncuların verimlilik derecesinin(PER) tahminini yapılmıştır.
 
-DEĞİŞKENLER
+DEĞİŞKENLER 📄
 
 * PER: Oyuncu Verimlilik Derecesi; dakika başına üretim ölçüsü, lig ortalaması 15 olacak şekilde standardize edilmiştir.
 * Player: Basketbolcu isimleri
