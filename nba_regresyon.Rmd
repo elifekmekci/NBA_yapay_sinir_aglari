@@ -1,6 +1,6 @@
 ---
 title: "Yapay Sinir Ağları ile Regresyon Problemi Çözümü"
-author: "ELİF EKMEKCİ-121519016"
+author: "ELİF EKMEKCİ"
 date: "2023-02-07"
 output: pdf_document
 ---
