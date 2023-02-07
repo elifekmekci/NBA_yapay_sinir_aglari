@@ -1,2 +1,2 @@
 # NBA
- NBA veri seti ile yapay sinir ağı çalışması
+Yapay sinir ağları ile regresyon problemi çözümü
